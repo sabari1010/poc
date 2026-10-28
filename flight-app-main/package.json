@@ -1,0 +1,13 @@
+{
+  "name": "flights",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node info.js",
+    "install": "node info.js"
+  },
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
